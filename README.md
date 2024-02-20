@@ -14,7 +14,11 @@ myenv/Scripts/Activate.ps1 (powershell)
 ```
 #### step 3: install the dependencies.
 ```
-pip install -r requirements.txt (for installing reqs)
+pip install -r requirements.txt 
+```
+#### OR
+```
+pip install numpy pillow scikit-image shapely
 ```
 #### To close the virtual environment:
 ```
